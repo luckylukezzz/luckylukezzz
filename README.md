@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @luckylukezzz
-- 👀 I’m interested in games,anime
-- 🌱 I’m currently learning python
-- 📫 How to reach me luckyluke#4464 discord
-
-<!---
-luckylukezzz/luckylukezzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![The San Juan Mountains are beautiful!](https://staticg.sportskeeda.com/editor/2022/11/a402f-16694231050443-1920.jpg "San Juan Mountains")
