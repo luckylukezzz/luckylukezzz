@@ -1,4 +1,3 @@
-![luffy welcome](2.gif)
 <div style="text-align:center;">
-  <img src="2.gif" alt="Image" />
+  <img src="2.gif" alt="Image" width="150" height="280" />
 </div>
